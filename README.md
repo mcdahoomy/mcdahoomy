@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m learning Python, Java, HTML, CSS, JavaScript, React, C#, C, C++, and Linux. Focusing on Java and Python ATM.<br>I’m currently working on a couple of projects.
+I’m learning Python, Java, HTML, CSS, JavaScript, React, C#, C, C++, and Linux.<br>I’m currently working on a couple of projects.
 
 
 ## 🌐 Socials:
